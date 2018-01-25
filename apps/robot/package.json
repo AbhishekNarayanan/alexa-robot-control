@@ -11,5 +11,8 @@
   "dependencies": {
     "alexa-app": "^2.4.0",
     "node-gcm": "^0.14.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

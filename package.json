@@ -11,5 +11,16 @@
   },
   "engines": {
     "node": "6.9.4"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekNarayanan/alexa-robot-control.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AbhishekNarayanan/alexa-robot-control/issues"
+  },
+  "homepage": "https://github.com/AbhishekNarayanan/alexa-robot-control#readme"
 }
